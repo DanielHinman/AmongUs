@@ -1,0 +1,13 @@
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.csprojAssemblyReference.cache
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.AssemblyInfoInputs.cache
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.AssemblyInfo.cs
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.csproj.CoreCompileInputs.cache
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\bin\Debug\netcoreapp3.1\AmongUsServer.exe
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\bin\Debug\netcoreapp3.1\AmongUsServer.deps.json
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\bin\Debug\netcoreapp3.1\AmongUsServer.runtimeconfig.json
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\bin\Debug\netcoreapp3.1\AmongUsServer.runtimeconfig.dev.json
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\bin\Debug\netcoreapp3.1\AmongUsServer.dll
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\bin\Debug\netcoreapp3.1\AmongUsServer.pdb
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.dll
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.pdb
+G:\OneDrive\Game Development\Unity\AmongUs\Group_3_Among_us\GameServer\AmongUsServer\obj\Debug\netcoreapp3.1\AmongUsServer.genruntimeconfig.cache
